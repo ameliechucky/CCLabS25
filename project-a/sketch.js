@@ -9,7 +9,7 @@ let x;
 let y;
 let R = 100;
 let vNumber = 200;
-let smoothness = 0.5;
+let smoothness = 0.1;
 
 function setup() {
     let canvas = createCanvas(800, 500);
